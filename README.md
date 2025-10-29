@@ -15,8 +15,7 @@
 
 🌏 **English**
 
-📌 **Task 1:**  
-Make a video about a collection of shots from Egypt, like this: [TikTok Example](https://vt.tiktok.com/ZSDFtVaDG/)
+
 
 ---
 
@@ -34,8 +33,7 @@ Make a video about a collection of shots from Egypt, like this: [TikTok Example]
 
 🌏 **English**
 
-📌 **Task 2:**  
-Create a short video using a collection of car racing clips.
+
 
 ---
 
@@ -57,8 +55,7 @@ Create a short video using a collection of car racing clips.
 - [Joseph | Video Editing](https://youtu.be/98CzEo5PIZ4?si=nai7gNn-uIKdYcVr)  
 - [Javier Mercedes](https://youtu.be/PmlonRJZooM?si=-wRmraJHYkt8AqlG)
 
-📌 **Task 3:**  
-Add a sound effect or background music to this clip: [Google Drive link](https://drive.google.com/file/d/1VrP9b-nG7U1jASVbSIOJ2rm5Q2ukSvP8/view?usp=sharing)
+
 
 ---
 
@@ -79,8 +76,7 @@ Add a sound effect or background music to this clip: [Google Drive link](https:/
 
 - [Zac Watson](https://youtu.be/1wZym4fQGig?si=pRZpKqJL58f-wtAU)
 
-📌 **Task 4:**  
-Color grade this video using Lumetri Color: [Google Drive link](https://drive.google.com/file/d/1FFwM3p0qzElHNep7ui-vXwHjI9JJ2y-e/view?usp=sharing)
+
 
 ---
 
@@ -96,8 +92,7 @@ Color grade this video using Lumetri Color: [Google Drive link](https://drive.go
 
 - [THE Nicks Edit](https://youtu.be/KwBC4EBHIck?si=LhqA8mCj8Y4LjEO7)
 
-📌 **Task 5:**  
-Apply what you learned from the video using these materials: [Telegram link](https://t.me/nicksediting/804)
+
 
 ---
 
@@ -120,8 +115,7 @@ Apply what you learned from the video using these materials: [Telegram link](htt
 
 - [GFXMentor (1–20)](https://youtube.com/playlist?list=PLW-zSkCnZ-gD8OcjTPu-u_Rxl9-kI9Xqr&si=pqFEvMKW9zYKc9Yv)
 
-📌 **Task 6:**  
-Create a video using these resources: [Google Drive folder](https://drive.google.com/drive/folders/1NP7zQJv9KBG7-JfS_TtiLKCGOrEL458-?usp=sharing)
+
 
 ---
 
@@ -141,8 +135,6 @@ Create a video using these resources: [Google Drive folder](https://drive.google
 
 - [GFXMentor (21–40)](https://www.youtube.com/playlist?list=PLW-zSkCnZ-gD8OcjTPu-u_Rxl9-kI9Xqr)
 
-📌 **Task 7:**  
-Create a video similar to this using these resources: [Google Drive folder](https://drive.google.com/drive/folders/145OpicJkmX-zQqz7xrmlAjuatBk76AjD?usp=sharing)
 
 ---
 
@@ -158,8 +150,7 @@ Create a video similar to this using these resources: [Google Drive folder](http
 
 - [Fares Toson](https://youtu.be/PFMIue9xTII?si=JJf-5AKMhTpJDjiN)
 
-📌 **Task 8:**  
-Apply what you learned from the video.
+
 
 ---
 
@@ -175,8 +166,7 @@ Apply what you learned from the video.
 
 - [Thameen](https://youtu.be/30a_U-mqQU4?si=_DBZNtOx-mdg6Bl-)
 
-📌 **Task 9:**  
-Apply what you learned from the video.
+
 
 ---
 
@@ -192,8 +182,7 @@ Apply what you learned from the video.
 
 - [Tarik | Video Editor](https://youtu.be/ZRRQFWT17B8?si=otUDEzy3mPQCjtRa)
 
-📌 **Task 10:**  
-Use these materials for your project: [Google Drive link](https://drive.google.com/drive/folders/1zmipEdO8MnsGpyU8GeBuWG0eMYtKPqnK?usp=sharing)
+
 
 ---
 
@@ -216,8 +205,7 @@ Use these materials for your project: [Google Drive link](https://drive.google.c
 
 - [Mike Russell - Adobe Audition Basics](https://youtube.com/playlist?list=PL1BzC0FR5_6lWUz0Q-6VLZJXuq6DJP3PL)
 
-📌 **Task 11:**  
-Create a short audio project using the basic tools learned this week.
+
 
 ---
 
@@ -237,8 +225,7 @@ Create a short audio project using the basic tools learned this week.
 
 - [Mike Russell - Audio Mixing in Audition](https://youtu.be/7ZshnA3z8xg?si=9Phtz0Sd2kzUHwAi)
 
-📌 **Task 12:**  
-Record and mix a short voice-over clip with background music and effects.
+
 
 ---
 
