@@ -47,12 +47,14 @@
 
 🌏 **Arabic**
 
-- [Fares Toson](https://youtu.be/4qIv6U367n8?si=SVAXpHG-6l7HY9tl)  
+- [Fares Toson](https://youtu.be/4qIv6U367n8?si=SVAXpHG-6l7HY9tl)
+- <b>&& <b/>
 - [Mohamed Adel (Part - 9:06)](https://youtu.be/bicjsm0Vwb0?t=546&si=k3BlYdqGzVwLZfLr)
 
 🌏 **English**
 
-- [Joseph | Video Editing](https://youtu.be/98CzEo5PIZ4?si=nai7gNn-uIKdYcVr)  
+- [Joseph | Video Editing](https://youtu.be/98CzEo5PIZ4?si=nai7gNn-uIKdYcVr)
+-  <b>&& <b/>
 - [Javier Mercedes](https://youtu.be/PmlonRJZooM?si=-wRmraJHYkt8AqlG)
 
 
@@ -244,6 +246,3 @@
 🌏 **English**
 
 - [Mike Russell - Final Export & Mastering](https://youtu.be/9UPNYWz0rQU?si=w0FykEy9PzMiy8gE)
-
-📌 **Task 13:**  
-Master and export your final audio project for submission.
