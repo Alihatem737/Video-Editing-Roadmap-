@@ -203,16 +203,6 @@
 
 - [Amr Atallah](https://youtu.be/1tE4VAdCjRo?si=sqd3ak7uJZiQnA8b)
 
-🌏 **English**
 
-- [Mike Russell - Adobe Audition Basics](https://youtube.com/playlist?list=PL1BzC0FR5_6lWUz0Q-6VLZJXuq6DJP3PL)
-
-
-
-
-
-- [Mastering Audio in Adobe Audition](https://youtu.be/0yQIBRJe30E?si=0NHzHTsybqCm7Z9t)
-
-🌏 **English**
 
 - [Mike Russell - Final Export & Mastering](https://youtu.be/9UPNYWz0rQU?si=w0FykEy9PzMiy8gE)
