@@ -209,37 +209,7 @@
 
 
 
----
 
-<aside>
-💡  
-<b>Week 12</b>  
-- Learn sound effects, mixing, and mastering techniques.
-</aside>
-
-### 🗂️ **Resources**
-
-🌏 **Arabic**
-
-- [Audio Mixing Arabic Tutorial](https://youtu.be/sP2UoC8RpjM?si=UFSZrHt9Dl2O8_Lb)
-
-🌏 **English**
-
-- [Mike Russell - Audio Mixing in Audition](https://youtu.be/7ZshnA3z8xg?si=9Phtz0Sd2kzUHwAi)
-
-
-
----
-
-<aside>
-💡  
-<b>Week 13</b>  
-- Master your final audio project and prepare for export.
-</aside>
-
-### 🗂️ **Resources**
-
-🌏 **Arabic**
 
 - [Mastering Audio in Adobe Audition](https://youtu.be/0yQIBRJe30E?si=0NHzHTsybqCm7Z9t)
 
